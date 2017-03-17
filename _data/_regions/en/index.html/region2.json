@@ -1,1 +1,11 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>"}]
+[
+	{
+		"_template": "href",
+		"url": "qwe",
+		"name": "werty"
+	},
+	{
+		"_template": "html",
+		"content": "<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p><img src=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-03-17-120421/Celino_Fence2.jpg\" width=\"223\" height=\"108\" /></p>\n<p>&nbsp;</p>\n<p><a href=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-03-17-120420/AWSBilling.pdf\"><img src=\"assets/pdf_icon.png\" width=\"75\" height=\"75\" /></a></p>"
+	}
+]
