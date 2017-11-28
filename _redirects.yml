@@ -1,0 +1,7 @@
+---
+- google: http://www.google.com
+- google/: http://www.google.com
+- Google: http://www.google.com
+- Google/: http://www.google.com
+- GOOGLE: http://www.google.com
+- GOOGLE/: http://www.google.com
