@@ -1,3 +1,4 @@
 {
-	"name": "New"
+  "name": "New",
+  "description": "<p>Test!</p>\n<ul>\n<li>It</li>\n<li>works</li>\n</ul>"
 }

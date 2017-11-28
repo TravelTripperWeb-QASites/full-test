@@ -1,11 +1,6 @@
 [
-	{
-		"_template": "href",
-		"url": "qwe",
-		"name": "werty"
-	},
-	{
-		"_template": "html",
-		"content": "<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p><img src=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-03-17-120421/Celino_Fence2.jpg\" width=\"223\" height=\"108\" /></p>\n<p><a href=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-03-17-120420/AWSBilling.pdf\"><img src=\"//cdn.traveltripper.io/pdf_icon.png\" width=\"75\" height=\"75\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-	}
+  {
+    "_template": "href",
+    "content": "<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p><img id=\"1501175745474\" class=\" \" src=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/logo-image-hotelstpierre.png\" width=\"437\" height=\"238\" data-image-large=\"//cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/large_logo_image-hotelstpierre.png\" data-image-medium=\"//cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/medium_logo_image-hotelstpierre.png\" data-image-small=\"//cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/small_logo_image-hotelstpierre.png\" data-image-xsmall=\"//cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/xsmall_logo_image-hotelstpierre.png\" data-image-thumb=\"//cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-07-27-131542/thumb_logo_image-hotelstpierre.png\" /></p>\n<p><a href=\"https://cdn.qa-traveltripper.info/site-assets/2_4_14/media/2017-03-17-120420/AWSBilling.pdf\"><img src=\"//cdn.traveltripper.io/pdf_icon.png\" width=\"75\" height=\"75\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+  }
 ]
